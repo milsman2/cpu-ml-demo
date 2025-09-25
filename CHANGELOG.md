@@ -1,6 +1,19 @@
 # CHANGELOG
 
 
+## v0.1.1 (2025-09-25)
+
+### Bug Fixes
+
+- Update pylint command and restore icecream import in main module
+  ([`3fca217`](https://github.com/milsman2/cpu-ml-demo/commit/3fca217e39891b93628793d22dac8003246aa142))
+
+### Refactoring
+
+- Remove greeting message from main function
+  ([`365fd0a`](https://github.com/milsman2/cpu-ml-demo/commit/365fd0a1c1ec271cd719db5927b76105ed239219))
+
+
 ## v0.1.0 (2025-09-20)
 
 ### Bug Fixes
