@@ -4,9 +4,9 @@ cpu-ml-demo main module
 This module serves as the entry point for the cpu-ml-demo application.
 """
 
-from icecream import ic
 import numpy as np
 import pandas as pd
+from icecream import ic
 from sklearn.linear_model import LinearRegression
 
 
