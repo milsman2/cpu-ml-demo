@@ -13,13 +13,8 @@ from sklearn.linear_model import LinearRegression
 def main():
     """
     Entry point for the cpu-ml-demo application.
-
-    Prints a greeting message to the console.
     """
-    message = "Hello from cpu-ml-demo!"
-    ic(message)
-    print(message)
-
+    ic()
     # Numpy: create and log a simple array
     arr = np.array([1, 2, 3, 4, 5])
     ic(arr)
