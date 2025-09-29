@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.2.0 (2025-09-29)
+
+### Features
+
+- Add Dockerfile for building and running the FastAPI application
+  ([`8d7b24f`](https://github.com/milsman2/cpu-ml-demo/commit/8d7b24ff223d7d193b3549726a13a7eaa8914744))
+
+
 ## v0.1.1 (2025-09-25)
 
 ### Bug Fixes
